@@ -1,0 +1,354 @@
+[
+    {
+      "id": 1,
+      "category": "Fiction",
+      "name": "The Great Gatsby",
+      "price": 15.99,
+      "image": "https://example.com/images/great-gatsby.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Non-fiction",
+      "name": "Sapiens: A Brief History of Humankind",
+      "price": 18.50,
+      "image": "https://example.com/images/sapiens.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Science Fiction",
+      "name": "Dune",
+      "price": 19.99,
+      "image": "https://example.com/images/dune.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Mystery",
+      "name": "The Girl with the Dragon Tattoo",
+      "price": 12.99,
+      "image": "https://example.com/images/dragon-tattoo.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Fantasy",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "price": 10.99,
+      "image": "https://example.com/images/harry-potter.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Biography",
+      "name": "Becoming",
+      "price": 14.99,
+      "image": "https://example.com/images/becoming.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Self-help",
+      "name": "Atomic Habits",
+      "price": 16.99,
+      "image": "https://example.com/images/atomic-habits.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Romance",
+      "name": "Pride and Prejudice",
+      "price": 8.99,
+      "image": "https://example.com/images/pride-prejudice.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Children's",
+      "name": "The Very Hungry Caterpillar",
+      "price": 7.99,
+      "image": "https://example.com/images/very-hungry-caterpillar.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Graphic Novel",
+      "name": "Maus",
+      "price": 21.99,
+      "image": "https://example.com/images/maus.jpg"
+    },
+    {
+      "id": 11,
+      "category": "History",
+      "name": "The Diary of a Young Girl",
+      "price": 11.50,
+      "image": "https://example.com/images/diary-young-girl.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Travel",
+      "name": "Into the Wild",
+      "price": 13.50,
+      "image": "https://example.com/images/into-the-wild.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Philosophy",
+      "name": "Meditations",
+      "price": 9.99,
+      "image": "https://example.com/images/meditations.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Health",
+      "name": "The Power of Habit",
+      "price": 16.00,
+      "image": "https://example.com/images/power-of-habit.jpg"
+    },
+    {
+      "id": 15,
+      "category": "Literature",
+      "name": "1984",
+      "price": 14.99,
+      "image": "https://example.com/images/1984.jpg"
+    },
+    {
+      "id": 16,
+      "category": "Thriller",
+      "name": "Gone Girl",
+      "price": 17.99,
+      "image": "https://example.com/images/gone-girl.jpg"
+    },
+    {
+      "id": 17,
+      "category": "Business",
+      "name": "The Lean Startup",
+      "price": 22.00,
+      "image": "https://example.com/images/lean-startup.jpg"
+    },
+    {
+      "id": 18,
+      "category": "Science",
+      "name": "Brief Answers to the Big Questions",
+      "price": 19.50,
+      "image": "https://example.com/images/brief-answers.jpg"
+    },
+    {
+      "id": 19,
+      "category": "Art",
+      "name": "Steal Like an Artist",
+      "price": 10.00,
+      "image": "https://example.com/images/steal-like-artist.jpg"
+    },
+    {
+      "id": 20,
+      "category": "Cookbook",
+      "name": "The Joy of Cooking",
+      "price": 25.99,
+      "image": "https://example.com/images/joy-of-cooking.jpg"
+    },
+    {
+      "id": 21,
+      "category": "Fiction",
+      "name": "To Kill a Mockingbird",
+      "price": 18.99,
+      "image": "https://example.com/images/to-kill-a-mockingbird.jpg"
+    },
+    {
+      "id": 22,
+      "category": "Non-fiction",
+      "name": "Educated",
+      "price": 16.00,
+      "image": "https://example.com/images/educated.jpg"
+    },
+    {
+      "id": 23,
+      "category": "Science Fiction",
+      "name": "Neuromancer",
+      "price": 17.99,
+      "image": "https://example.com/images/neuromancer.jpg"
+    },
+    {
+      "id": 24,
+      "category": "Biography",
+      "name": "Steve Jobs",
+      "price": 18.00,
+      "image": "https://example.com/images/steve-jobs.jpg"
+    },
+    {
+      "id": 25,
+      "category": "Fantasy",
+      "name": "The Hobbit",
+      "price": 14.50,
+      "image": "https://example.com/images/the-hobbit.jpg"
+    },
+    {
+      "id": 26,
+      "category": "Self-help",
+      "name": "The Subtle Art of Not Giving a F*ck",
+      "price": 13.50,
+      "image": "https://example.com/images/subtle-art.jpg"
+    },
+    {
+      "id": 27,
+      "category": "Romance",
+      "name": "The Fault in Our Stars",
+      "price": 9.99,
+      "image": "https://example.com/images/fault-in-our-stars.jpg"
+    },
+    {
+      "id": 28,
+      "category": "Children's",
+      "name": "Where the Wild Things Are",
+      "price": 10.99,
+      "image": "https://example.com/images/where-wild-things.jpg"
+    },
+    {
+      "id": 29,
+      "category": "Graphic Novel",
+      "name": "Persepolis",
+      "price": 14.99,
+      "image": "https://example.com/images/persepolis.jpg"
+    },
+    {
+      "id": 30,
+      "category": "History",
+      "name": "The Book Thief",
+      "price": 18.99,
+      "image": "https://example.com/images/book-thief.jpg"
+    },
+    {
+      "id": 31,
+      "category": "Travel",
+      "name": "Wild",
+      "price": 12.99,
+      "image": "https://example.com/images/wild.jpg"
+    },
+    {
+      "id": 32,
+      "category": "Philosophy",
+      "name": "The Republic",
+      "price": 9.99,
+      "image": "https://example.com/images/republic.jpg"
+    },
+    {
+      "id": 33,
+      "category": "Health",
+      "name": "Why We Sleep",
+      "price": 18.99,
+      "image": "https://example.com/images/why-we-sleep.jpg"
+    },
+    {
+      "id": 34,
+      "category": "Literature",
+      "name": "Brave New World",
+      "price": 12.99,
+      "image": "https://example.com/images/brave-new-world.jpg"
+    },
+    {
+      "id": 35,
+      "category": "Thriller",
+      "name": "The Silent Patient",
+      "price": 16.99,
+      "image": "https://example.com/images/silent-patient.jpg"
+    },
+    {
+      "id": 36,
+      "category": "Business",
+      "name": "Good to Great",
+      "price": 15.00,
+      "image": "https://example.com/images/good-to-great.jpg"
+    },
+    {
+      "id": 37,
+      "category": "Science",
+      "name": "The Selfish Gene",
+      "price": 17.99,
+      "image": "https://example.com/images/selfish-gene.jpg"
+    },
+    {
+      "id": 38,
+      "category": "Art",
+      "name": "The Art of War",
+      "price": 12.00,
+      "image": "https://example.com/images/art-of-war.jpg"
+    },
+    {
+      "id": 39,
+      "category": "Cookbook",
+      "name": "Salt, Fat, Acid, Heat",
+      "price": 21.50,
+      "image": "https://example.com/images/salt-fat-heat.jpg"
+    },
+    {
+      "id": 40,
+      "category": "Fiction",
+      "name": "The Catcher in the Rye",
+      "price": 11.99,
+      "image": "https://example.com/images/catcher-in-the-rye.jpg"
+    },
+    {
+      "id": 41,
+      "category": "Non-fiction",
+      "name": "The Immortal Life of Henrietta Lacks",
+      "price": 14.00,
+      "image": "https://example.com/images/immortal-life.jpg"
+    },
+    {
+      "id": 42,
+      "category": "Science Fiction",
+      "name": "The Left Hand of Darkness",
+      "price": 16.50,
+      "image": "https://example.com/images/left-hand-darkness.jpg"
+    },
+    {
+      "id": 43,
+      "category": "Biography",
+      "name": "Alexander Hamilton",
+      "price": 22.99,
+      "image": "https://example.com/images/alexander-hamilton.jpg"
+    },
+    {
+      "id": 44,
+      "category": "Fantasy",
+      "name": "The Name of the Wind",
+      "price": 17.99,
+      "image": "https://example.com/images/name-of-wind.jpg"
+    },
+    {
+      "id": 45,
+      "category": "Self-help",
+      "name": "The 7 Habits of Highly Effective People",
+      "price": 16.99,
+      "image": "https://example.com/images/7-habits.jpg"
+    },
+    {
+      "id": 46,
+      "category": "Romance",
+      "name": "Outlander",
+      "price": 14.50,
+      "image": "https://example.com/images/outlander.jpg"
+    },
+    {
+      "id": 47,
+      "category": "Children's",
+      "name": "Matilda",
+      "price": 9.99,
+      "image": "https://example.com/images/matilda.jpg"
+    },
+    {
+      "id": 48,
+      "category": "Graphic Novel",
+      "name": "Watchmen",
+      "price": 22.00,
+      "image": "https://example.com/images/watchmen.jpg"
+    },
+    {
+      "id": 49,
+      "category": "History",
+      "name": "The Guns of August",
+      "price": 18.00,
+      "image": "https://example.com/images/guns-of-august.jpg"
+    },
+    {
+      "id": 50,
+      "category": "Travel",
+      "name": "The Road Less Traveled",
+      "price": 14.50,
+      "image": "https://example.com/images/road-less-traveled.jpg"
+    }
+    
+   
+  ]

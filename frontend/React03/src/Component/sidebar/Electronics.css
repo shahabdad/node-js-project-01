@@ -1,0 +1,255 @@
+ General Styles
+ .app-container {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .app-header {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 4px solid #388e3c;
+  }
+  
+  .app-header h1 {
+    font-size: 2.5rem;
+  }
+  
+  .app-header p {
+    font-size: 1rem;
+  }
+  
+  /* Sidebar */
+  .app-aside {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
+  
+  .search-container {
+    position: relative;
+  }
+  
+  .search-bar {
+    width: 300px;
+    padding: 10px 40px 10px 20px;
+    border: 2px solid #ddd;
+    border-radius: 25px;
+    font-size: 16px;
+  }
+  
+  .search-icon {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    color: #888;
+    pointer-events: none;
+  }
+  
+  /* Cards */
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+    animation: fadeIn 0.8s ease-in-out;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+    color: #666;
+  }
+  
+  .card span {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
+  /* Pagination */
+  .pagination {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .pagination button {
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 16px;
+    color: white;
+    background-color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .pagination button:hover {
+    background-color: #388e3c;
+  }
+  
+  .pagination button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+  }
+  
+  .pagination span {
+    font-size: 1rem;
+    margin: 0 10px;
+  }
+  
+  /* Footer */
+  .app-footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+  }
+  
+  .app-footer a {
+    color: #4caf50;
+    text-decoration: none;
+  }
+  
+  .app-footer a:hover {
+    text-decoration: underline;
+  }
+   
+  /* Animations */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+   
+
+  /* _____________________________ */
+
+
+  /* General Layout */
+.app-container {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+.app-header {
+  text-align: center;
+  background-color: #003366;
+  color: white;
+  padding: 20px 0;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+}
+
+.app-aside .search-container {
+  max-width: 400px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-bar {
+  width: 100%;
+  padding: 8px 15px;
+}
+
+.search-icon {
+  font-size: 20px;
+  color: #003366;
+}
+
+.app-main .card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.product-card .card-body {
+  padding: 15px;
+}
+
+.product-card h5 {
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.product-card .card-text {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #003366;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.pagination button {
+  padding: 10px 20px;
+}
+
+.app-footer {
+  background-color: #003366;
+  color: white;
+  font-size: 0.9rem;
+}
+
+.app-footer a {
+  color: #ffcc00;
+  text-decoration: none;
+}

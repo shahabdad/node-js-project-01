@@ -1,0 +1,147 @@
+.contact-container {
+    padding: 40px 20px;
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    text-align: center;
+  }
+  
+  .contact-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #343a40;
+  }
+  
+  .contact-details {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+  }
+  
+  .contact-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .contact-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .contact-icon {
+    font-size: 2rem;
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact-input, .contact-textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+  }
+  
+  .contact-button {
+    padding: 10px 20px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .contact-button:hover {
+    background: #0056b3;
+  }
+  
+
+  .success-message {
+    color: #28a745;
+    margin-top: 10px;
+  }
+  
+  .error-message {
+    color: #dc3545;
+    margin-top: 10px;
+  }
+  
+  .contact-description {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    color: #6c757d;
+  }
+
+  .card h5 {
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+  }
+  
+  .card p {
+    font-size: 0.9rem;
+    color: #6c757d;
+  }
+  
+  textarea {
+    resize: none; /* Prevent textarea resizing */
+  }
+  
+  @media (max-width: 576px) {
+    .card h5 {
+      font-size: 1rem;
+    }
+    .contact-form {
+      padding: 1rem;
+    }
+  }
+
+
+  /* ----------- */
+  
+  .contact-container {
+    font-family: 'Roboto', sans-serif; 
+  }
+  
+  .custom-input, .custom-textarea {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 8px 30px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .custom-input:focus, .custom-textarea:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    outline: none;
+  }
+  
+  .custom-textarea {
+    font-family: 'Merriweather', serif; 
+    resize: none;
+  }
+  
+  .custom-button {
+    background-color: #007bff;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 12px 0;
+    border-radius: 5px;
+  }
+  
+  .custom-button:hover {
+    background-color: #0056b3;
+    cursor: pointer;
+  }
+  
+  

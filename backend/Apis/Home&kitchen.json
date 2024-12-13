@@ -1,0 +1,203 @@
+[
+    {
+      "Id": 1,
+      "Brand": "KitchenAid",
+      "Category": "Home and Kitchen",
+      "Price": "$70.00",
+      "Profession": "Cooking Expert",
+      "Image": "https://unsplash.com/photos/4Yv84VgQkRM/download"
+    },
+    {
+      "Id": 2,
+      "Brand": "Cuisinart",
+      "Category": "Home and Kitchen",
+      "Price": "$120.00",
+      "Profession": "Baking Enthusiast",
+      "Image": "https://unsplash.com/photos/Jf_2URtSKZQ/download"
+    },
+    {
+      "Id": 3,
+      "Brand": "Hamilton Beach",
+      "Category": "Home and Kitchen",
+      "Price": "$50.00",
+      "Profession": "Home Chef",
+      "Image": "https://unsplash.com/photos/mV32TuKF4Ko/download"
+    },
+    {
+      "Id": 4,
+      "Brand": "Ninja",
+      "Category": "Home and Kitchen",
+      "Price": "$150.00",
+      "Profession": "Healthy Living Enthusiast",
+      "Image": "https://unsplash.com/photos/6xK8Ng1i_kk/download"
+    },
+    {
+      "Id": 5,
+      "Brand": "Oster",
+      "Category": "Home and Kitchen",
+      "Price": "$80.00",
+      "Profession": "Smoothie Maker",
+      "Image": "https://unsplash.com/photos/7H77FWkK_x4/download"
+    },
+    {
+      "Id": 6,
+      "Brand": "Breville",
+      "Category": "Home and Kitchen",
+      "Price": "$200.00",
+      "Profession": "Barista",
+      "Image": "https://unsplash.com/photos/RxMNbP0Kh7I/download"
+    },
+    {
+      "Id": 7,
+      "Brand": "Sunbeam",
+      "Category": "Home and Kitchen",
+      "Price": "$60.00",
+      "Profession": "Bread Maker",
+      "Image": "https://unsplash.com/photos/FHE3NYAK4M4/download"
+    },
+    {
+      "Id": 8,
+      "Brand": "Black+Decker",
+      "Category": "Home and Kitchen",
+      "Price": "$100.00",
+      "Profession": "Meal Prep Enthusiast",
+      "Image": "https://unsplash.com/photos/xu3N2_Wrx9c/download"
+    },
+    {
+      "Id": 9,
+      "Brand": "Instant Pot",
+      "Category": "Home and Kitchen",
+      "Price": "$130.00",
+      "Profession": "Time-Saving Cook",
+      "Image": "https://unsplash.com/photos/7_EAy5Yj3f4/download"
+    },
+    {
+      "Id": 10,
+      "Brand": "KitchenAid",
+      "Category": "Home and Kitchen",
+      "Price": "$170.00",
+      "Profession": "Pastry Chef",
+      "Image": "https://unsplash.com/photos/WHSnkIsIJbA/download"
+    },
+    {
+      "Id": 11,
+      "Brand": "NutriBullet",
+      "Category": "Home and Kitchen",
+      "Price": "$90.00",
+      "Profession": "Smoothie Lover",
+      "Image": "https://unsplash.com/photos/z2PCXtzA35s/download"
+    },
+    {
+      "Id": 12,
+      "Brand": "Vitamix",
+      "Category": "Home and Kitchen",
+      "Price": "$400.00",
+      "Profession": "Professional Chef",
+      "Image": "https://unsplash.com/photos/C4G18Paw0d4/download"
+    },
+    {
+      "Id": 13,
+      "Brand": "Keurig",
+      "Category": "Home and Kitchen",
+      "Price": "$90.00",
+      "Profession": "Coffee Enthusiast",
+      "Image": "https://unsplash.com/photos/AU3zVhtsY0s/download"
+    },
+    {
+      "Id": 14,
+      "Brand": "Nespresso",
+      "Category": "Home and Kitchen",
+      "Price": "$250.00",
+      "Profession": "Caffeine Lover",
+      "Image": "https://unsplash.com/photos/XICLo6Q8eFM/download"
+    },
+    {
+      "Id": 15,
+      "Brand": "Blendtec",
+      "Category": "Home and Kitchen",
+      "Price": "$300.00",
+      "Profession": "Juicing Enthusiast",
+      "Image": "https://unsplash.com/photos/9UWjR5-Z-G4/download"
+    },
+    {
+      "Id": 16,
+      "Brand": "DeLonghi",
+      "Category": "Home and Kitchen",
+      "Price": "$150.00",
+      "Profession": "Home Barista",
+      "Image": "https://unsplash.com/photos/Emu_Iu1aRpY/download"
+    },
+    {
+      "Id": 17,
+      "Brand": "T-fal",
+      "Category": "Home and Kitchen",
+      "Price": "$40.00",
+      "Profession": "Frying Enthusiast",
+      "Image": "https://unsplash.com/photos/Ml-RZ0abWZ8/download"
+    },
+    {
+      "Id": 18,
+      "Brand": "George Foreman",
+      "Category": "Home and Kitchen",
+      "Price": "$50.00",
+      "Profession": "Grill Master",
+      "Image": "https://unsplash.com/photos/Q5R3bMmXVmM/download"
+    },
+    {
+      "Id": 19,
+      "Brand": "Calphalon",
+      "Category": "Home and Kitchen",
+      "Price": "$70.00",
+      "Profession": "Cooking Enthusiast",
+      "Image": "https://unsplash.com/photos/EqHHap9Us6g/download"
+    },
+    {
+      "Id": 20,
+      "Brand": "Le Creuset",
+      "Category": "Home and Kitchen",
+      "Price": "$250.00",
+      "Profession": "Gourmet Chef",
+      "Image": "https://unsplash.com/photos/ZTxyj-jqgIE/download"
+    },
+    {
+      "Id": 21,
+      "Brand": "Lodge",
+      "Category": "Home and Kitchen",
+      "Price": "$30.00",
+      "Profession": "Outdoor Cook",
+      "Image": "https://unsplash.com/photos/ZR7XUZj5fqk/download"
+    },
+    {
+      "Id": 22,
+      "Brand": "All-Clad",
+      "Category": "Home and Kitchen",
+      "Price": "$200.00",
+      "Profession": "Professional Cook",
+      "Image": "https://unsplash.com/photos/SvAc-Ec7g9M/download"
+    },
+    {
+      "Id": 23,
+      "Brand": "Crock-Pot",
+      "Category": "Home and Kitchen",
+      "Price": "$50.00",
+      "Profession": "Slow Cooker Lover",
+      "Image": "https://unsplash.com/photos/2bR0f5yynRI/download"
+    },
+    {
+      "Id": 24,
+      "Brand": "Zojirushi",
+      "Category": "Home and Kitchen",
+      "Price": "$150.00",
+      "Profession": "Rice Cooker Expert",
+      "Image": "https://unsplash.com/photos/7DFx2SWNdQo/download"
+    },
+    {
+      "Id": 25,
+      "Brand": "Kitchen Basics",
+      "Category": "Home and Kitchen",
+      "Price": "$20.00",
+      "Profession": "Beginner Cook",
+      "Image": "https://unsplash.com/photos/f1sdh1Nnl7o/download"
+    }
+  ]
+  
